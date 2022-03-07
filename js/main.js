@@ -481,7 +481,7 @@ jQuery(function($) {
         dots: false,                   
         autoplay: false,
         centerMode : false,
-
+        rtl: true,
         responsive: [{
 
             breakpoint: 1360,
